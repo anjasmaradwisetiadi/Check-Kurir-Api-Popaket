@@ -1,5 +1,5 @@
 # Check-Kurir-Popaket-NuxtJS
-### check kurir JNE,JTE, Indah Kargo, SPE use API Popaket 
+### check kurir JNE,JTE, Indah Kargo, SPE using API Popaket & NUXTJS 
 
 ## Build Setup
 
