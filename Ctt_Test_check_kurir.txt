@@ -1,0 +1,22 @@
+---langkah kerja
+1. buat UI (12)
+2. buat fungsi jalan(13-14)
+3. buat testing (14-15)
+--- alamat API
+1. submit data
+https://apidev.popaket.com/logistic/v3/public/rate
+2. location origin
+https://apidev.popaket.com/logistic/v1/public/location
+3. location destination
+https://apidev.popaket.com/logistic/v1/public/location
+--- kekurangan
+1. coba liat kualitas code lagi
+2. lifecyle submit data jalan
+3. validation untuk submit data.
+   3.1 dapatkan 
+4. testing 
+
+--- api-key: b6fc000d-1020-4cf7-a8a0-5598375c19b8
+--- location
+Baturan, Gantiwarno, Klaten, Jawa Tengah : 66884
+Semarang, Banjarnegara, Banjarnegara, Jawa Tengah : 56771
